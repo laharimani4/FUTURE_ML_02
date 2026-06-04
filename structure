@@ -1,0 +1,15 @@
+FUTURE_ML_02
+│
+├── dataset
+│   └── support_tickets.csv
+│
+├── notebook
+│   └── Support_Ticket_Classification.ipynb
+│
+├── screenshots
+│   ├── accuracy.png
+│   └── prediction.png
+│
+├── README.md
+├── requirements.txt
+└── report.pdf
